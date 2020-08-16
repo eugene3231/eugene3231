@@ -41,16 +41,14 @@
 <img alt="html5" src="https://devicons.github.io/devicon/devicon.git/icons/html5/html5-original-wordmark.svg"  width="26"/>
 <img alt="java" src="https://devicons.github.io/devicon/devicon.git/icons/java/java-original-wordmark.svg"  width="26"/>
 <img alt="javascript" src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg"  width="26"/>
-<img alt="linux" src="https://devicons.github.io/devicon/devicon.git/icons/linux/linux-original.svg"  width="26"/>
-<img alt="nodejs" src="https://devicons.github.io/devicon/devicon.git/icons/nodejs/nodejs-original-wordmark.svg"  width="26"/>
+<img alt="linux" src="https://devicons.github.io/devicon/devicon.git/icons/linux/linux-original.svg" width="26"/>
+<img alt="nodejs" src="https://devicons.github.io/devicon/devicon.git/icons/nodejs/nodejs-original-wordmark.svg" width="26"/>
 <img alt="photoshop" src="https://devicons.github.io/devicon/devicon.git/icons/photoshop/photoshop-plain.svg"  width="26"/>
 <img alt="postgresql" src="https://devicons.github.io/devicon/devicon.git/icons/postgresql/postgresql-original-wordmark.svg"  width="26"/>
 <img alt="python" src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original.svg"  width="26"/>
-<img alt="react" src="https://devicons.github.io/devicon/devicon.git/icons/react/react-original-wordmark.svg"  width="26"/>[<img alt="redux" src="https://devicons.github.io/devicon/devicon.git/icons/redux/redux-original.svg"  width="40" height="40"/>
+<img alt="react" src="https://devicons.github.io/devicon/devicon.git/icons/react/react-original-wordmark.svg"  width="26"/>
+<img alt="redux" src="https://devicons.github.io/devicon/devicon.git/icons/redux/redux-original.svg"  width="40" height="40"/>
 </p>
-
-<br />
-<br />
 
 ---
 
