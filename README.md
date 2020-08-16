@@ -1,8 +1,8 @@
-### Hi there, I'm Eugene - aka [eugene3231][website] 👋
+### <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hi there, I'm Eugene - aka [eugene3231][website]
 
 [![Website](https://img.shields.io/website?label=eugene3231.netlify.app&style=for-the-badge&url=https%3A%2F%2Feugene3231.netlify.app)](https://eugene3231.netlify.app)
 
-## I'm currently a Year 3 Computer Science student studying in NUS!
+## I'm currently a Year 3 Computer Science student studying in NUS! 👋
 
 - 🔭 I’m currently interested in learning cybersecurity and web development!
 - 🌱 I’m currently learning about software engineering 🤣
