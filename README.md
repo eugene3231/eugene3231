@@ -1,6 +1,6 @@
 ### Hi there, I'm Eugene - aka [eugene3231][website] 👋
 
-[![Website](https://img.shields.io/website?label=codeSTACKr.com&style=for-the-badge&url=https%3A%2F%2Feugene3231.netlify.com)](https://eugene3231.netlify.com)
+[![Website](https://img.shields.io/website?label=eugene3231.netlify.app&style=for-the-badge&url=https%3A%2F%2Feugene3231.netlify.app)](https://eugene3231.netlify.app)
 
 ## I'm currently a Year 3 Computer Science student studying in NUS!
 
@@ -32,7 +32,7 @@
 [<img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />][]
 [<img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />][]
 [<img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />][]
-[<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />][webdevplaylist]
+[<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />][]
 [<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />][]
 [<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />][]
 [<img alt="bootstrap" src="https://devicons.github.io/devicon/devicon.git/icons/bootstrap/bootstrap-plain.svg"  width="26" height="26"/>][]
@@ -47,7 +47,7 @@
 [<img alt="postgresql" src="https://devicons.github.io/devicon/devicon.git/icons/postgresql/postgresql-original-wordmark.svg"  width="26" height="26"/>][] 
 [<img alt="python" src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original.svg"  width="26" height="26"/>][] 
 [<img alt="react" src="https://devicons.github.io/devicon/devicon.git/icons/react/react-original-wordmark.svg"  width="26" height="26"/>][] 
-[<img alt="redux" src="https://devicons.github.io/devicon/devicon.git/icons/redux/redux-original.svg"  width="26" height="26"/>][]
+[<img alt="redux" src="https://devicons.github.io/devicon/devicon.git/icons/redux/redux-original.svg"  width="26" height="26"/>]
 
 <br />
 <br />
@@ -62,6 +62,6 @@
 </details>
 # Readme Template adapted from: [adapted]
 
-[website]: https://eugene3231.netlify.com
+[website]: https://eugene3231.netlify.app
 [linkedin]: https://linkedin.com/in/eugene-chua-nus
 [adapted]: https://github.com/codeSTACKr
