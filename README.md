@@ -47,7 +47,7 @@
 [<img align="left" alt="postgresql" src="https://devicons.github.io/devicon/devicon.git/icons/postgresql/postgresql-original-wordmark.svg"  width="26"/>]
 [<img align="left" alt="python" src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original.svg"  width="26"/>]
 [<img align="left" alt="react" src="https://devicons.github.io/devicon/devicon.git/icons/react/react-original-wordmark.svg"  width="26"/>] 
-[<img align="left" alt="redux" src="https://devicons.github.io/devicon/devicon.git/icons/redux/redux-original.svg"  width="26"/>]
+[<img align="left" alt="redux" src="https://devicons.github.io/devicon/devicon.git/icons/redux/redux-original.svg"  width="40" height="40"/>]
 
 <br />
 <br />
