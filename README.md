@@ -4,9 +4,9 @@
 
 ## I'm currently a Year 3 Computer Science student studying in NUS! 👋
 
-- 🔭 I’m currently interested in learning cybersecurity and web development!
+- 🔭 I’m interested in learning more about cybersecurity and web development!
 - 🌱 I’m currently learning about software engineering 🤣
-- 👯 I’m currently searching for an internship for early 2021
+- 👯 I’m looking for an internship in early 2021
 - 🥅 2020 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to play games and watch some netflix
 
