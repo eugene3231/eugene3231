@@ -23,8 +23,8 @@
 
 <img alt="html5" src="https://devicons.github.io/devicon/devicon.git/icons/html5/html5-original-wordmark.svg"  width="40" height="40"/>
 <img alt="css3" src="https://devicons.github.io/devicon/devicon.git/icons/css3/css3-original-wordmark.svg"  width="40" height="40"/>
-<img alt="bootstrap" src="https://devicons.github.io/devicon/devicon.git/icons/bootstrap/bootstrap-plain.svg"  width="40" height="40"/>
-<img alt="python" src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original.svg"  width="40" height="40"/>
+<img alt="bootstrap" src="https://devicons.github.io/devicon/devicon.git/icons/bootstrap/bootstrap-plain-wordmark.svg"  width="40" height="40"/>
+<img alt="python" src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original-wordmark.svg"  width="40" height="40"/>
 <img alt="java" src="https://devicons.github.io/devicon/devicon.git/icons/java/java-original-wordmark.svg"  width="40" height="40"/>
 <img alt="javascript" src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg"  width="40" height="40"/>
 <img alt="react" src="https://devicons.github.io/devicon/devicon.git/icons/react/react-original-wordmark.svg"  width="40" height="40"/>
