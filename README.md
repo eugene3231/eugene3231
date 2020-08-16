@@ -30,6 +30,7 @@
 <img alt="react" src="https://devicons.github.io/devicon/devicon.git/icons/react/react-original-wordmark.svg"  width="40" height="40"/>
 <img alt="redux" src="https://devicons.github.io/devicon/devicon.git/icons/redux/redux-original.svg"  width="40" height="40"/>
 <img alt="nodejs" src="https://devicons.github.io/devicon/devicon.git/icons/nodejs/nodejs-original-wordmark.svg" width="40" height="40"/>
+<img alt="expressjs" src="https://devicons.github.io/devicon/devicon.git/icons/express/express-original-wordmark.svg"  width="40" height="40"/>
 <img alt="postgresql" src="https://devicons.github.io/devicon/devicon.git/icons/postgresql/postgresql-original-wordmark.svg"  width="40" height="40"/>
 
 <img alt="photoshop" src="https://devicons.github.io/devicon/devicon.git/icons/photoshop/photoshop-plain.svg"  width="40" height="40"/>
