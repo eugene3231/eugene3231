@@ -56,7 +56,7 @@
   <img alt="eugene3231's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=eugene3231&show_icons=true&hide_border=true" />
 
 </details>
-# Readme Template adapted from: [adapted]
+Readme Template adapted from: [adapted](https://github.com/codeSTACKr)
 
 [website]: https://eugene3231.netlify.app
 [linkedin]: https://linkedin.com/in/eugene-chua-nus
