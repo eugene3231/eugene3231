@@ -8,7 +8,7 @@ Visit my website:
 
 - 🔭 I’m interested in learning more about cybersecurity and web development!
 - 🌱 I’m currently doing my first internship 🤣
-- 👯 I’m looking for another internship in early 2022
+- 👯 I’m looking for my next internship in early 2022
 - 🥅 2021 Goals: Be more involved in open source projects!
 - ⚡ Fun fact: I love to play games and watch movies
 
