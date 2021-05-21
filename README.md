@@ -7,8 +7,7 @@ Visit my website:
 ## I'm currently a Year 3 Computer Science student studying in NUS! 👋
 
 - 🔭 I’m interested in learning more about cybersecurity and web development! 
-- 🌱 I’m currently doing my first internship 
-- 👯 I’m looking for my next internship in early 2022
+- 👯 I’m looking for my next internship in 2021
 - 🥅 2021 Goals: Be more involved in open source projects! 
 - ⚡ Fun fact: I love to play games and watch Christopher Nolan movies 🤣
 
@@ -24,6 +23,7 @@ Visit my website:
 <p align="left">
   
 <img alt="java" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg"  width="40" height="40"/>
+<img alt="c" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-plain.svg"  width="50" height="50"/>
 <img alt="python" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original-wordmark.svg"  width="40" height="40"/>
 <img alt="javascript" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"  width="40" height="40"/>
 <img alt="html5" src="https://raw.githubusercontent.com/devicons/devicon/master//icons/html5/html5-original-wordmark.svg"  width="40" height="40"/>
