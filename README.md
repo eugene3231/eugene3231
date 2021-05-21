@@ -40,12 +40,7 @@ Visit my website:
 
 ---
 
-<details>
-  <summary>:zap: Github Stats</summary>
-
-  <img alt="eugene3231's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=eugene3231&show_icons=true&hide_border=true" />
-
-</details>
+[![Eugene's GitHub stats](https://github-readme-stats.vercel.app/api?username=eugene3231)](https://github.com/anuraghazra/github-readme-stats)
 
 </br>
 </br>
