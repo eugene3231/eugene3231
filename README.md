@@ -4,10 +4,10 @@ Visit my website:
 <br/><br/>
 [![Website](https://img.shields.io/website?label=eugene3231.netlify.app&style=for-the-badge&url=https%3A%2F%2Feugene3231.netlify.app)](https://eugene3231.netlify.app)
 
-## I'm currently a Year 3 Computer Science student studying in NUS! 👋
+## I'm currently a Year 4 Computer Science student studying in NUS! 👋
 
 - 🔭 I’m interested in learning more about cybersecurity and web development! 
-- 👯 I’m looking for my next internship in 2021
+- 👯 I’m looking for my next internship in 2022
 - 🥅 2021 Goals: Be more involved in open source projects! 
 - ⚡ Fun fact: I love to play games and watch Christopher Nolan movies 🤣
 
