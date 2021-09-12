@@ -4,12 +4,12 @@ Visit my website:
 <br/><br/>
 [![Website](https://img.shields.io/website?label=eugene3231.netlify.app&style=for-the-badge&url=https%3A%2F%2Feugene3231.netlify.app)](https://eugene3231.netlify.app)
 
-## I'm currently a Year 4 Computer Science student studying in NUS! 👋
+## I'm a Year 4 Computer Science student currently studying in NUS! 👋
 
-- 🔭 I’m interested in learning more about cybersecurity and web development! 
+- 🔭 I’m interested in learning more about software engineering, cybersecurity and web development! 
 - 👯 I’m looking for my next internship in 2022
 - 🥅 2021 Goals: Be more involved in open source projects! 
-- ⚡ Fun fact: I love to play games and watch Christopher Nolan movies 🤣
+- ⚡ Fun fact: I love to watch Christopher Nolan movies 🤣
 
 ### Connect with me:
 
@@ -19,11 +19,16 @@ Visit my website:
 <br />
 
 
-### Languages and Tools:
+### Key Skills:
 <p align="left">
   
 <img alt="java" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg"  width="40" height="40"/>
+<img alt="cplusplus"src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-plain.svg" width="50" height="50"/>
 <img alt="c" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-plain.svg"  width="50" height="50"/>
+
+### Also worked with:
+<p align="left">
+  
 <img alt="python" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original-wordmark.svg"  width="40" height="40"/>
 <img alt="javascript" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"  width="40" height="40"/>
 <img alt="html5" src="https://raw.githubusercontent.com/devicons/devicon/master//icons/html5/html5-original-wordmark.svg"  width="40" height="40"/>
