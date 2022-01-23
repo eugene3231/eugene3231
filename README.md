@@ -4,7 +4,7 @@ Visit my website:
 <br/><br/>
 [![Website](https://img.shields.io/website?label=eugene3231.netlify.app&style=for-the-badge&url=https%3A%2F%2Feugene3231.netlify.app)](https://eugene3231.netlify.app)
 
-## I'm a Year 4 Computer Science student currently studying in NUS! 👋
+## I'm a final year Computer Science student currently studying in NUS! 👋
 
 - 🔭 I’m interested in learning more about software engineering and web development! 
 - 👯 I’m looking for my next internship in Summer 2022 and a full time opportunity in 2023
