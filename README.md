@@ -6,10 +6,10 @@ Visit my website:
 
 ## I'm a Year 4 Computer Science student currently studying in NUS! 👋
 
-- 🔭 I’m interested in learning more about software engineering, cybersecurity and web development! 
-- 👯 I’m looking for my next internship in 2022
-- 🥅 2021 Goals: Be more involved in open source projects! 
-- ⚡ Fun fact: I love to watch Christopher Nolan movies 🤣
+- 🔭 I’m interested in learning more about software engineering and web development! 
+- 👯 I’m looking for my next internship in Summer 2022 and a full time opportunity in 2023
+- 🥅 2022 Goals: Be more involved in open source projects! 
+- ⚡ Fun fact: I like to cycle and also play games in my free time 🤣
 
 ### Connect with me:
 
