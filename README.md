@@ -9,7 +9,7 @@ Visit my website:
 - 🔭 I’m interested in learning more about software engineering and web development! 
 - 👯 I’m looking for my next internship in Summer 2022 and a full time opportunity in 2023
 - 🥅 2022 Goals: Be more involved in open source projects! 
-- ⚡ Fun fact: I like to cycle and also play games in my free time 🤣
+- ⚡ Fun fact: I like to cycle and also play games in my free time
 
 ### Connect with me:
 
