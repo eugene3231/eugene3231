@@ -22,25 +22,26 @@ Visit my website:
 ### Key Skills:
 <p align="left">
   
+<img alt="react" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"  width="40" height="40"/>
+<img alt="typescript" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg"  width="40" height="40"/>
+<img alt="go" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original-wordmark.svg"  width="40" height="40"/>
+<img alt="terraform" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/terraform/terraform-original-wordmark.svg"  width="40" height="40"/>
 <img alt="java" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg"  width="40" height="40"/>
-<img alt="cplusplus"src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-plain.svg" width="50" height="50"/>
-<img alt="c" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-plain.svg"  width="50" height="50"/>
+<img alt="aws" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg"  width="40" height="40"/>
 
 ### Also worked with:
 <p align="left">
   
 <img alt="python" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original-wordmark.svg"  width="40" height="40"/>
+<img alt="cplusplus"src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-plain.svg" width="40" height="40"/>
+<img alt="c" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-plain.svg"  width="40" height="40"/>
 <img alt="javascript" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"  width="40" height="40"/>
 <img alt="html5" src="https://raw.githubusercontent.com/devicons/devicon/master//icons/html5/html5-original-wordmark.svg"  width="40" height="40"/>
 <img alt="css3" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg"  width="40" height="40"/>
-<img alt="bootstrap" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg"  width="40" height="40"/>
-<img alt="react" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"  width="40" height="40"/>
-<img alt="redux" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg"  width="40" height="40"/>
-<img alt="nodejs" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="40" height="40"/>
-<img alt="expressjs" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg"  width="40" height="40"/>
-<img alt="postgresql" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg"  width="40" height="40"/>
+<img alt="yarn" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/yarn/yarn-original-wordmark.svg"  width="40" height="40"/>
+<img alt="less" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/less/less-plain-wordmark.svg"  width="40" height="40"/>
 
-<img alt="photoshop" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-plain.svg"  width="40" height="40"/>
+
 </p>
 
 ---
