@@ -4,17 +4,15 @@ Visit my website:
 <br/><br/>
 [![Website](https://img.shields.io/website?label=eugene3231.netlify.app&style=for-the-badge&url=https%3A%2F%2Feugene3231.netlify.app)](https://eugene3231.netlify.app)
 
-## I'm a final year Computer Science student currently studying in NUS! 👋
+## I'm a Software Engineer who finds joy in using technology to improve everyday experiences! 👋
 
-- 🔭 I’m interested in learning more about software engineering and web development! 
-- 👯 I’m looking for a full time opportunity in 2023
-- 🥅 2022 Goals: Be more involved in open source projects! 
-- ⚡ Fun fact: I like to cycle and also play games in my free time
+- 🔭 I’m currently looking into learning more about web development and Kubernetes! 
+- ⚡ Fun fact: I like to gym, cycle and also play games in my free time
 
 ### Connect with me:
 
 [<img align="left" alt="eugene3231.netlify.app" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="linkedin.com/eugene-chua-nus" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="linkedin.com/eugene-chua-sy" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 <br />
 
@@ -22,27 +20,11 @@ Visit my website:
 ### Key Skills:
 <p align="left">
   
-<img alt="react" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"  width="40" height="40"/>
-<img alt="typescript" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg"  width="40" height="40"/>
-<img alt="go" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original-wordmark.svg"  width="40" height="40"/>
-<img alt="terraform" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/terraform/terraform-original-wordmark.svg"  width="40" height="40"/>
-<img alt="java" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg"  width="40" height="40"/>
-<img alt="aws" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg"  width="40" height="40"/>
+<img alt="go" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original-wordmark.svg"  width="50" height="50"/>
+<img alt="react" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"  width="50" height="50"/>
+<img alt="typescript" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg"  width="50" height="50"/>
+<img alt="kubernetes" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-original.svg"  width="50" height="50"/>
 
-### Also worked with:
-<p align="left">
-  
-<img alt="python" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original-wordmark.svg"  width="40" height="40"/>
-<img alt="cplusplus"src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-plain.svg" width="40" height="40"/>
-<img alt="c" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-plain.svg"  width="40" height="40"/>
-<img alt="javascript" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"  width="40" height="40"/>
-<img alt="html5" src="https://raw.githubusercontent.com/devicons/devicon/master//icons/html5/html5-original-wordmark.svg"  width="40" height="40"/>
-<img alt="css3" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg"  width="40" height="40"/>
-<img alt="yarn" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/yarn/yarn-original-wordmark.svg"  width="40" height="40"/>
-<img alt="less" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/less/less-plain-wordmark.svg"  width="40" height="40"/>
-
-
-</p>
 
 ---
 
