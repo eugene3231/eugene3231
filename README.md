@@ -1,17 +1,16 @@
-### <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hi there, I'm Eugene - aka [eugene3231][website]
+### <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hi there, I'm Eugene
 
 Visit my website:
 <br/><br/>
-[![Website](https://img.shields.io/website?label=eugene3231.netlify.app&style=for-the-badge&url=https%3A%2F%2Feugene3231.netlify.app)](https://eugene3231.netlify.app)
+[![Website](https://img.shields.io/website?label=eugene-chua.netlify.app&style=for-the-badge&url=https%3A%2F%2Feugene-chua.netlify.app)](https://eugene-chua.netlify.app)
 
 ## I'm a Software Engineer who finds joy in using technology to improve everyday experiences! 👋
 
 - 🔭 I’m currently looking into learning more about web development and Kubernetes! 
-- ⚡ Fun fact: I like to gym, cycle and also play games in my free time
 
 ### Connect with me:
 
-[<img align="left" alt="eugene3231.netlify.app" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="eugene-chua.netlify.app" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="linkedin.com/eugene-chua-sy" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 <br />
@@ -41,5 +40,5 @@ Visit my website:
 
 Readme Template adapted from: [codeSTACKr](https://github.com/codeSTACKr)
 
-[website]: https://eugene3231.netlify.app
-[linkedin]: https://linkedin.com/in/eugene-chua-nus
+[website]: https://eugene-chua.netlify.app
+[linkedin]: https://linkedin.com/in/eugene-chua-sy
