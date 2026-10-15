@@ -1,12 +1,6 @@
-### <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hi there, I'm Eugene
-
-Visit my website:
-<br/><br/>
 [![Website](https://img.shields.io/website?label=eugene-chua.netlify.app&style=for-the-badge&url=https%3A%2F%2Feugene-chua.netlify.app)](https://eugene-chua.netlify.app)
 
-## I'm a Software Engineer who finds joy in using technology to improve everyday experiences! 👋
-
-- 🔭 I’m currently looking into learning more about web development and Kubernetes! 
+<img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> hey there 👋, i like to build durable systems, solve problems and improve everyday experiences!
 
 ### Connect with me:
 
@@ -16,7 +10,7 @@ Visit my website:
 <br />
 
 
-### Key Skills:
+### What I work with currently
 <p align="left">
   
 <img alt="go" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original-wordmark.svg"  width="50" height="50"/>
@@ -37,8 +31,6 @@ Visit my website:
 </br>
 </br>
 </br>
-
-Readme Template adapted from: [codeSTACKr](https://github.com/codeSTACKr)
 
 [website]: https://eugene-chua.netlify.app
 [linkedin]: https://linkedin.com/in/eugene-chua-sy
