@@ -4,8 +4,8 @@
 
 ### Connect with me:
 
-[<img align="left" alt="eugene-chua.netlify.app" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="linkedin.com/eugene-chua-sy" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+<img align="left" alt="eugene-chua.netlify.app" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />
+<img align="left" alt="linkedin.com/eugene-chua-sy" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 
 <br />
 
@@ -16,7 +16,7 @@
 <img alt="go" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original-wordmark.svg"  width="50" height="50"/>
 <img alt="react" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"  width="50" height="50"/>
 <img alt="typescript" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg"  width="50" height="50"/>
-<img alt="kubernetes" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-original.svg"  width="50" height="50"/>
+<!-- <img alt="kubernetes" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-original.svg"  width="50" height="50"/> -->
 
 
 ---
