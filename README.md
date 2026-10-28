@@ -1,6 +1,6 @@
 [![Website](https://img.shields.io/website?label=eugene-chua.netlify.app&style=for-the-badge&url=https%3A%2F%2Feugene-chua.netlify.app)](https://eugene-chua.netlify.app)
 
-<img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> hey there 👋, i like to build durable systems, solve problems and improve everyday experiences!
+<img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> 👋 hey there, i like to solve problems and improve everyday experiences.
 
 ### Connect with me:
 
@@ -25,12 +25,3 @@
   <summary>:zap: Github Stats</summary>
   <img alt="Eugene's Github Stats" src="https://github-readme-stats.vercel.app/api?username=eugene3231" />
 </details>
-
-</br>
-</br>
-</br>
-</br>
-</br>
-
-[website]: https://eugene-chua.netlify.app
-[linkedin]: https://linkedin.com/in/eugene-chua-sy
