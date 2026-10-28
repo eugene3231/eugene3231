@@ -4,8 +4,8 @@
 
 ### Connect with me:
 
-<img align="left" alt="eugene-chua.netlify.app" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />
-<img align="left" alt="linkedin.com/eugene-chua-sy" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+[<img align="left" alt="eugene-chua.netlify.app" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="linkedin.com/eugene-chua-sy" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 <br />
 
@@ -25,3 +25,6 @@
   <summary>:zap: Github Stats</summary>
   <img alt="Eugene's Github Stats" src="https://github-readme-stats.vercel.app/api?username=eugene3231" />
 </details>
+
+[website]: https://eugene-chua.netlify.app
+[linkedin]: https://linkedin.com/in/eugene-chua-sy
